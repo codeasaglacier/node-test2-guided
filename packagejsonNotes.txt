@@ -1,0 +1,5 @@
+1) define config values for jest testing environment in package.json set to "node" ( g2 test.js )
+
+14) create development and testing environments in knexfile
+15) install cross-env as dev dependency
+16) update package.json with cross-env ( g2 config )
